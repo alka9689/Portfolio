@@ -43,7 +43,7 @@ a{
     height: 50vh;
     width: 30vw;
     border-radius:60%;
-    background-image: url("../images/my.jpg");
+    background-image: url("images/my.jpg");
     background-size:cover;
     margin-left: 2vw;
     margin-top: 8vh;
@@ -355,7 +355,7 @@ h2{
     /* border: 2px solid black; */
 }
 .item1{
-    background-image: url("../images/mahatma.jpg");
+    background-image: url("images/mahatma.jpg");
     background-size: cover;
     
 }
